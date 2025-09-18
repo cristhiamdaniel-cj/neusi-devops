@@ -1,0 +1,16 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de sistema
+.DS_Store
+*.log
+
+# Migraciones (opcional si quieres versionarlas después)
+*/migrations/__pycache__/
